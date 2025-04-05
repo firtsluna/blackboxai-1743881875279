@@ -1,0 +1,6 @@
+/* Minimal CSS */
+body { font-family: Arial, sans-serif; margin: 0; }
+.bg-primary { background: #1E3A8A; }
+.bg-secondary { background: #111827; }
+.text-white { color: white; }
+.container { max-width: 1200px; margin: 0 auto; }
